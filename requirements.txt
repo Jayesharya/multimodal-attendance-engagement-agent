@@ -1,0 +1,10 @@
+librosa==0.11.0; python_version < "3.12"
+librosa==1.0.0; python_version >= "3.12"
+mediapipe==1.1.1
+numpy==2.4.6
+opencv-contrib-python==4.14.0.94
+pandas==3.0.5
+requests==2.34.2
+reportlab==5.0.0
+sounddevice==0.5.3
+streamlit==1.66.1
